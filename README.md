@@ -6,5 +6,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * section 3 : Heigher Order Components
 * section 4 : Middlewares with Redux
 * section 5 : Server-setup Authentication
-
+* section 6 : Client Side Auth
 

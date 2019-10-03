@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    max-width: 30%;
+    text-decoration: none;
+    margin-top: 40px;
+}
+.header a{
+   margin: 0 10px;
+}
+.welcome{
+    margin: 80px;
+}
+.signup{
+    max-width: 50%;
+    margin: 80px;
+}
+.feature{
+    max-width: 50%;
+    margin: 80px;
+}

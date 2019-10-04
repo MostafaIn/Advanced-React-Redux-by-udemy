@@ -10,3 +10,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  
 * section 6 : Client Side Auth
 * section 8 : [Legacy] Testing
+* section 9 : [Legacy] Test environment setup
+* section 10: [Legacy] Higher Order Components
+* section 11: [Legacy] Middleware
